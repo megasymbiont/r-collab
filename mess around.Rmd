@@ -24,7 +24,7 @@ dim(cars)
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-plot(speed)
+plot(distance)
 # Changed plot from pressure to speed
 ```
 
